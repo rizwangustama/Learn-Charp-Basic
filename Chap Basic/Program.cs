@@ -42,7 +42,7 @@
             
             
             // Aritmatika
-            int Bilangan1, Bilangan2, Pertambahan, Penjumlahan, Pengurangan;
+            int Bilangan1, Bilangan2, Perkalian, Penjumlahan, Pengurangan;
             
             // Variabel
             Bilangan1 = 10;
@@ -54,9 +54,51 @@
             // Pengurangan
             Pengurangan = Bilangan1 - Bilangan2;
             
+            // Perkalian 
+            Perkalian = Penjumlahan * Penjumlahan;
             Console.WriteLine("============ * Aritmatika * ============");
             Console.WriteLine("Penjumlahan : " + Penjumlahan);
             Console.WriteLine("Pengurangan : " + Pengurangan);
+            Console.WriteLine("Perkalian : " + Perkalian);
+            
+            
+            
+            // Condition
+            int Condition1, Condition2;
+            Condition1 = 10;
+            Condition2 = 5;
+            bool isChecked = false;
+            
+            if (Condition1 == Condition2) 
+            {
+                isChecked = true;
+            }
+            else
+            {
+                isChecked = false;
+            }
+            
+            Console.WriteLine($"Is Checked : {isChecked}");
+
+            int variableLooping = 5;
+
+            for (int i = 0; i < variableLooping; i++)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+
+            for (int i = variableLooping; i > 0; i--)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }

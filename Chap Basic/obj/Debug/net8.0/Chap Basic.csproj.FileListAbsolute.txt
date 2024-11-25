@@ -12,3 +12,4 @@
 /Users/rizwangustama/RiderProjects/Chap Basic/Chap Basic/obj/Debug/net8.0/Chap Basic.pdb
 /Users/rizwangustama/RiderProjects/Chap Basic/Chap Basic/obj/Debug/net8.0/Chap Basic.genruntimeconfig.cache
 /Users/rizwangustama/RiderProjects/Chap Basic/Chap Basic/obj/Debug/net8.0/ref/Chap Basic.dll
+/Users/rizwangustama/RiderProjects/Chap Basic/Chap Basic/obj/Debug/net8.0/Chap Basic.sourcelink.json
