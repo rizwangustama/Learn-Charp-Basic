@@ -16,7 +16,6 @@
             Console.WriteLine(numberDecimal);
             Console.WriteLine(numberString);
             
-            
             // Variabel
             string name, address, city, country;
             int age, year, month, day;
