@@ -4,12 +4,29 @@ public class Program
 {
     public static void Main()
     {
-        Customer c1, c2;
-        c1 = new Customer();
-        c2 = new Customer();
+        Customer toyota, honda;
+        toyota = new Customer();
+        honda = new Customer();
+
+        toyota.customerId = 01;
+        toyota.customerAddreess = "Cibitung";
+        toyota.customerName = "Kijang Inova";
+
+        honda.customerId = 02;
+        honda.customerName = "Honda Brio";
+        honda.customerAddreess = "Jakarta";
         
-        Console.WriteLine(c1);
-        Console.WriteLine(c2);
+        Mahasiswa mahasiswa = new Mahasiswa();
+        mahasiswa.id = 03;
+        mahasiswa.name = "Rizwan Gustama";
+        mahasiswa.status = "Active";
+        mahasiswa.gender = "Female";
+        mahasiswa.birthDate = new DateTime(1980, 11, 15);
         
+        Console.WriteLine("Id : " + mahasiswa.id);
+        Console.WriteLine("Name : " + mahasiswa.name);
+        Console.WriteLine("Status : " + mahasiswa.status);
+        Console.WriteLine("Gender : " + mahasiswa.gender);
+        Console.WriteLine("BirthDate : " + mahasiswa.birthDate);
     }
 }
