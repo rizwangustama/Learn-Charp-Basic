@@ -1,0 +1,15 @@
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\bin\Debug\net6.0\OOP.exe
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\bin\Debug\net6.0\OOP.deps.json
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\bin\Debug\net6.0\OOP.dll
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\bin\Debug\net6.0\OOP.pdb
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\obj\Debug\net6.0\OOP.sourcelink.json
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\obj\Debug\net6.0\OOP.dll
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\obj\Debug\net6.0\refint\OOP.dll
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\obj\Debug\net6.0\OOP.pdb
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\obj\Debug\net6.0\ref\OOP.dll

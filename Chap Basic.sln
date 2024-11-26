@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap Basic", "Chap Basic\Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateForm", "CreateForm\CreateForm.csproj", "{057688A8-3371-4E6F-B9D5-848CAA284043}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{B6689459-7C19-4ABA-BED2-4E8B4688CCC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{057688A8-3371-4E6F-B9D5-848CAA284043}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{057688A8-3371-4E6F-B9D5-848CAA284043}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{057688A8-3371-4E6F-B9D5-848CAA284043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6689459-7C19-4ABA-BED2-4E8B4688CCC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6689459-7C19-4ABA-BED2-4E8B4688CCC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6689459-7C19-4ABA-BED2-4E8B4688CCC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6689459-7C19-4ABA-BED2-4E8B4688CCC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
