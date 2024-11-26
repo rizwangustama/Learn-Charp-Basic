@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OOP
-build_property.ProjectDir = C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\OOP\
+build_property.ProjectDir = /Users/rizwangustama/RiderProjects/Chap Basic/OOP/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
