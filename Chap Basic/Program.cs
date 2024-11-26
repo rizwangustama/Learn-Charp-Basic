@@ -79,7 +79,7 @@
             }
             
             Console.WriteLine($"Is Checked : {isChecked}");
-
+            
             int variableLooping = 5;
 
             for (int i = 0; i < variableLooping; i++)
@@ -99,6 +99,7 @@
                 }
                 Console.WriteLine();
             }
+            
         }
     }
 }

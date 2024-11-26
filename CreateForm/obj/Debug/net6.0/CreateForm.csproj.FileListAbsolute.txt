@@ -1,0 +1,15 @@
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\bin\Debug\net6.0\CreateForm.exe
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\bin\Debug\net6.0\CreateForm.deps.json
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\bin\Debug\net6.0\CreateForm.runtimeconfig.json
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\bin\Debug\net6.0\CreateForm.dll
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\bin\Debug\net6.0\CreateForm.pdb
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\obj\Debug\net6.0\CreateForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\obj\Debug\net6.0\CreateForm.AssemblyInfoInputs.cache
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\obj\Debug\net6.0\CreateForm.AssemblyInfo.cs
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\obj\Debug\net6.0\CreateForm.csproj.CoreCompileInputs.cache
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\obj\Debug\net6.0\CreateForm.sourcelink.json
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\obj\Debug\net6.0\CreateForm.dll
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\obj\Debug\net6.0\refint\CreateForm.dll
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\obj\Debug\net6.0\CreateForm.pdb
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\obj\Debug\net6.0\CreateForm.genruntimeconfig.cache
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\CreateForm\obj\Debug\net6.0\ref\CreateForm.dll

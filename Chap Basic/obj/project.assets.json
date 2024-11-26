@@ -8,25 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/rizwangustama/.nuget/packages/": {}
+    "C:\\Users\\CTAS114\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rizwangustama/RiderProjects/Chap Basic/Chap Basic/Chap Basic.csproj",
+      "projectUniqueName": "C:\\Users\\CTAS114\\RiderProjects\\Learn-Charp-Basic\\Chap Basic\\Chap Basic.csproj",
       "projectName": "Chap Basic",
-      "projectPath": "/Users/rizwangustama/RiderProjects/Chap Basic/Chap Basic/Chap Basic.csproj",
-      "packagesPath": "/Users/rizwangustama/.nuget/packages/",
-      "outputPath": "/Users/rizwangustama/RiderProjects/Chap Basic/Chap Basic/obj/",
+      "projectPath": "C:\\Users\\CTAS114\\RiderProjects\\Learn-Charp-Basic\\Chap Basic\\Chap Basic.csproj",
+      "packagesPath": "C:\\Users\\CTAS114\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CTAS114\\RiderProjects\\Learn-Charp-Basic\\Chap Basic\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "/Users/rizwangustama/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\CTAS114\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -39,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

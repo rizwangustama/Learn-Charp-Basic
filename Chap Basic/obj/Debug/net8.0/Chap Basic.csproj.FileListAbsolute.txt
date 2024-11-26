@@ -13,3 +13,18 @@
 /Users/rizwangustama/RiderProjects/Chap Basic/Chap Basic/obj/Debug/net8.0/Chap Basic.genruntimeconfig.cache
 /Users/rizwangustama/RiderProjects/Chap Basic/Chap Basic/obj/Debug/net8.0/ref/Chap Basic.dll
 /Users/rizwangustama/RiderProjects/Chap Basic/Chap Basic/obj/Debug/net8.0/Chap Basic.sourcelink.json
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\bin\Debug\net8.0\Chap Basic.exe
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\bin\Debug\net8.0\Chap Basic.deps.json
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\bin\Debug\net8.0\Chap Basic.runtimeconfig.json
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\bin\Debug\net8.0\Chap Basic.dll
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\bin\Debug\net8.0\Chap Basic.pdb
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\obj\Debug\net8.0\Chap Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\obj\Debug\net8.0\Chap Basic.AssemblyInfoInputs.cache
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\obj\Debug\net8.0\Chap Basic.AssemblyInfo.cs
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\obj\Debug\net8.0\Chap Basic.csproj.CoreCompileInputs.cache
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\obj\Debug\net8.0\Chap Basic.sourcelink.json
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\obj\Debug\net8.0\Chap Basic.dll
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\obj\Debug\net8.0\refint\Chap Basic.dll
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\obj\Debug\net8.0\Chap Basic.pdb
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\obj\Debug\net8.0\Chap Basic.genruntimeconfig.cache
+C:\Users\CTAS114\RiderProjects\Learn-Charp-Basic\Chap Basic\obj\Debug\net8.0\ref\Chap Basic.dll
